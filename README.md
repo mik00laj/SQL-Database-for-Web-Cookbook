@@ -1,6 +1,6 @@
 # SQL-Database-for-Web-Cookbook
 
-Database project for a web-based Cookbook. The relational database project was created using SQL Data Modeler and MySQL. It includes both the logical and relational models. The database has been implemented in a web application and tested using test data.
+Database project for a Web Cookbook. The relational database project was created using SQL Data Modeler and MySQL. It includes both the logical and relational models. The database has been implemented in a web application and tested using test data.
 
 ## The database is represented by the following tables:
 -  Media,
